@@ -1,0 +1,349 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+* {
+        font-family: "Poppins", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 100%;
+    height: 115px;
+    background-color: #E9FFE9;
+    padding: 24px 122px 24px 111px;
+}
+.logo {
+    width: 194px;
+    height: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img1 {
+    width: 74px;
+    height: 67px;
+    border-radius: 16px;
+}
+.name {
+    width: 114px;
+    height: 48px;
+    width: 114px;
+    height: 48px;
+    font-size: 40px;
+    font-weight: 700;
+    color: #44ED41;
+    margin: 0px 0px 23px 6px;
+}
+.it {
+    color: #000;
+    font-weight: 700;
+}
+.links {
+    width: 623px;
+    height: 25px;
+    margin: 21px 130px;
+}
+.alink {
+    margin-left: 40px;
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+}
+.h-link {
+    text-decoration: none;
+    color: #44ED41;
+    font-weight: 500;
+}
+.signup {
+    width: 130px;
+    height: 55px;
+    background-color: #1FE91B;
+    border-radius: 20px;
+    border: none;
+    color: #FFF;
+    font-weight: 500;
+}
+a:hover {
+    color: red;
+}
+.foreword {
+    width: 966px;
+    height: 132px;
+    font-size: 60px;
+    font-weight: 500;
+    text-align: center;
+    margin: 80px 237px 24px 237px;
+    line-height: 60px;
+}
+.foreword-2 {
+    width: 667px;
+    height: 40px;
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: 300;
+    text-align: center;
+    margin: 0px 386px 48px 387px;
+}
+.download {
+    width: 415px;
+    height: 54px;
+    margin: 0px 512px 193px 513px;
+    display: flex;
+}
+#googleplay {
+    display: flex;
+    align-items: center;
+    width: 193px;
+    height: 54px;
+    background-color: #000;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: left;
+    border-radius: 5px;
+}
+.ps-icon, .as-icon {
+    width: 53px;
+    height: 52px;
+}
+#appstore {
+    display: flex;
+    align-items: center;
+    width: 193px;
+    height: 54px;
+    background-color: #000;
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: left;
+    border-radius: 5px;
+    margin-left: 29px;
+}
+.ad-1 {
+    display: flex;
+    margin: 0px 121px 127px 110px;
+}
+.ad-1texts {
+    width: 664px;
+    height: 232px;
+    margin: 114px 15px 0px 0px;
+}
+.plan {
+    width: 614px;
+    height: 132px;
+    font-size: 50px;
+    font-weight: 700;
+    color: #000;
+    line-height: 68px;
+    margin-bottom: 0px;
+}
+.ease {
+    color: #44ED41;
+}
+.find {
+    width: 664px;
+    height: 96px;
+    font-size: 40px;
+    font-weight: 500px;
+    line-height: 48px;
+    color: #000;
+    margin-top: 0px;
+}
+.nyc {
+    width: 530px;
+    height: 531px;
+}
+.ad-1textss {
+    width: 664px;
+    height: 232px;
+    margin: 114px 0px 0px 15px;
+}
+.case-study {
+    margin: 0px 100px 29px 123px;
+}
+.case {
+    background-color: #82F380;
+    width: 192px;
+    height: 44px;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 40px;
+    display: inline-block;
+}
+.transform {
+    display: inline-block;
+    width: 866px;
+    height: 16px;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 24px;
+}
+.pre-footer {
+    width: 1200px;
+    height: 339px;
+    background-color: #E9FFE9;
+    display: flex;
+    margin: 0px 11px 73px 112px;
+}
+.pf-texts {
+    width: 424px;
+    height: 209px;
+    margin: 53px 230px 77px 48px;
+}
+.lets {
+    width: 424px;
+    height: 40px;
+    font-size: 32px;
+    font-weight: 500;
+}
+.get {
+    width: 424px;
+    height: 72px;
+    font-size: 16px;
+    font-weight: 300;
+    margin: 20px 0px 22px 0px;
+}
+.proposal {
+    width: 250px;
+    height: 55px;
+    background-color: #1FE91B;
+    color: #FFF;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+}
+.doodle {
+    width: 534px;
+    height: 339px;
+}
+.footer-1 {
+    display: flex;
+    background-color: #121212;
+    max-height: 251px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    max-width: 100%;
+}
+.logo-cl {
+    width: 151px;
+    height: 97px;
+    margin: 85px 134px 133px 101px;
+}
+.sl-u {
+    display: flex;
+    height: 36px;
+    margin-bottom: 0px;
+}
+.sl {
+    width: 36px;
+    height: 33px;
+    border-radius: 16px;
+}
+.sp {
+    width: 78px;
+    height: 31px;
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: -7px;
+    margin-left: 3px;
+
+}
+.sit {
+    color: #44ED41;
+}
+.pydt {
+    width: 151px;
+    height: 40px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    color: #FFF;
+    margin: 8px 0px 4px opx;
+}
+.s-ag {
+    width: 151px;
+    height: 12px;
+    color: #FFF;
+    font-size: 8px;
+    font-weight: 400;
+    margin-top: 0px;
+}
+.down-links {
+    width: 96px;
+    height: 116px;
+    margin: 77px 50px 58px 0px;
+}
+.down-links2 {
+    width: 121px;
+    height: 116px;
+    margin: 77px 50px 58px 0px;
+}
+.down-links a {
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-decoration: none;
+    margin-bottom: 12px;
+    display: block;
+}
+.down-links a:hover {
+    color: red;
+}
+.down-links2 a {
+    color: #FFF;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    text-decoration: none;
+    margin-bottom: 12px;
+    display: block;
+}
+.down-links2 a:hover {
+    color: red;
+}
+.bb {
+    width: 92px;
+    height: 20px;
+    color: #44ED41;
+}
+.down-links a:nth-child(4) {
+    color: #44ED41;
+}
+.down-links a:nth-child(4):hover {
+    color: red;
+}
+.down-links2 a:nth-child(4) {
+    color: #44ED41;
+}
+.down-links2 a:nth-child(4):hover {
+    color: red;
+}
+.socials {
+    width: 177px;
+    height: 55px;
+    margin: 112px 101px 94px 15px;
+    display: flex;
+}
+.fb, .x, .ig {
+    width: 55px;
+    height: 55px;
+    margin: 0px 15px 0px 0px;
+}
+.footer-2 {
+    margin: 0px;
+    padding: 15px 0px 25px 88px;
+    background-color: #44ED41;
+    font-size: 10px;
+    font-weight: 400;
+    color: #121212;
+}
