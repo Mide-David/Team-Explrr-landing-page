@@ -68,30 +68,45 @@
 a:hover {
     color: red;
 }
+
+.main-hero {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 150px
+}
 .foreword {
-    width: 966px;
-    height: 132px;
+    /* width: 966px;
+    height: 132px; */
     font-size: 60px;
     font-weight: 500;
     text-align: center;
-    margin: 80px 237px 24px 237px;
+    /* margin: 80px 237px 24px 237px; */
     line-height: 60px;
 }
 .foreword-2 {
-    width: 667px;
-    height: 40px;
+    /* width: 667px;
+    height: 40px; */
     font-size: 20px;
-    line-height: 20px;
+    /* line-height: 20px; */
     font-weight: 300;
     text-align: center;
-    margin: 0px 386px 48px 387px;
+    /* margin: 0px 386px 48px 387px; */
 }
 .download {
-    width: 415px;
-    height: 54px;
-    margin: 0px 512px 193px 513px;
+    /* width: 415px;
+    height: 54px; */
+    /* margin: 0px 512px 193px 513px; */
     display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
+
 #googleplay {
     display: flex;
     align-items: center;
