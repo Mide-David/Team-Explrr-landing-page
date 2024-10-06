@@ -79,6 +79,13 @@ a:hover {
     margin-right: auto;
     padding-bottom: 150px
 }
+.first {
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
 .foreword {
     /* width: 966px;
     height: 132px; */
@@ -141,6 +148,8 @@ a:hover {
 .ad-1 {
     display: flex;
     margin: 0px 121px 127px 110px;
+   justify-content: center;
+    max-width: 100%;
 }
 .ad-1texts {
     width: 664px;
@@ -204,7 +213,9 @@ a:hover {
     height: 339px;
     background-color: #E9FFE9;
     display: flex;
-    margin: 0px 11px 73px 112px;
+    margin: 0px 11px 73px 50px;
+    justify-content: center;
+    max-width: 100%;
 }
 .pf-texts {
     width: 424px;
